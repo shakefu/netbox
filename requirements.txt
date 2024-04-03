@@ -24,7 +24,7 @@ Markdown==3.5.2
 mkdocs-material==9.5.4
 mkdocstrings[python-legacy]==0.24.0
 netaddr==0.10.1
-Pillow==10.2.0
+Pillow==10.3.0
 psycopg[binary,pool]==3.1.17
 PyYAML==6.0.1
 requests==2.31.0
